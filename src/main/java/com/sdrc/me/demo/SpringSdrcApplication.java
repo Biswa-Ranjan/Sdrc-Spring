@@ -8,5 +8,6 @@ public class SpringSdrcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSdrcApplication.class, args);
+		System.out.println("Ramu kaka");
 	}
 }
