@@ -10,5 +10,6 @@ public class SpringSdrcApplication {
 		SpringApplication.run(SpringSdrcApplication.class, args);
 		System.out.println("abcd");
 		System.out.println("1234");
+		System.out.println("345345");
 	}
 }
